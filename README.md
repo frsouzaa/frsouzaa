@@ -1,8 +1,15 @@
+<div align="center">
+  <h1>Olá Mundo! eu sou o Felipe 🤙</h1>
+</div>
 
-### Olá Mundo! eu sou o Felipe 🤙
+<br>
 
-- 🔭 Hoje trabalho com desenvolvimento fluig front-end
-- 🌱 Estou estudando Javascript
+<ul>
+  <li>🔭 Hoje trabalho com desenvolvimento fluig front-end</li>
+  <li>🌱 Estou estudando Python e Javascript</li>
+</ul>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/frsouzaa">
