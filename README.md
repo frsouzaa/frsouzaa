@@ -5,8 +5,8 @@
 <br>
 
 <ul>
-  <li>🔭 Hoje trabalho com desenvolvimento fluig front-end</li>
-  <li>🌱 Estou estudando Python e Javascript</li>
+  <li>🔭 Hoje trabalho com desenvolvimento Back-end em Python</li>
+  <li>🌱 Estou estudando Python e Node.js</li>
 </ul>
 
 <br>
