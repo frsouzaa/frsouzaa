@@ -6,7 +6,7 @@
 
 <ul>
   <li>🔭 Hoje trabalho com desenvolvimento Back-end em Python</li>
-  <li>🌱 Estou estudando Python e Node.js</li>
+  <li>🌱 Estou estudando Python e C</li>
 </ul>
 
 <br>
