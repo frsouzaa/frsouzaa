@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá Mundo! eu sou o Felipe</h2>
+  <h2>Olá Mundo! Eu sou o Felipe 🙂</h2>
 </div>
 
 <br>
