@@ -24,6 +24,9 @@
 ##
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/frsouzaa/frsouzaa/blob/output/ocean.gif)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/frsouzaa/frsouzaa/blob/output/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/frsouzaa/frsouzaa/blob/output/light" />
+    <img alt="github-snake" src="github-snake.svg"/>
+  </picture>
 </div>
