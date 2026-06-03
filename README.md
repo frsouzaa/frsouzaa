@@ -25,5 +25,5 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/frsouzaa/frsouzaa/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/frsouzaa/frsouzaa/blob/output/ocean.gif)
 </div>
