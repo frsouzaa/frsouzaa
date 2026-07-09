@@ -5,7 +5,7 @@
 <br>
 
 <ul>
-  <li>🔭 Atualmente atuo como Analista DevOps no Banco do Brasil, com foco no desenvolvimento de pipelines de CI/CD utilizando GitHub Actions. Também atuo como desenvolvedo Back-End Java.</li>
+  <li>🔭 Atualmente atuo como Analista DevOps no Banco do Brasil, com foco no desenvolvimento de pipelines de CI/CD utilizando GitHub Actions. Também atuo como desenvolvedor Back-End Java.</li>
   <li>🌱 Mestrando em Ciência da Computação pelo IME-USP</li>
 </ul>
 
