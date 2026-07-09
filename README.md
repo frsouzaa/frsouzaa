@@ -1,24 +1,28 @@
 <div align="center">
-  <h2>Olá Mundo! Eu sou o Felipe 🙂</h2>
+  <h1>Olá Mundo! Eu sou o Felipe 🙂</h1>
 </div>
 
 <br>
 
 <ul>
-  <li>🔭 Atualmente atuo como Analista DevOps no Banco do Brasil, com foco no desenvolvimento de pipelines de CI/CD utilizando GitHub Actions. Também atuo como desenvolvedor Back-End Java.</li>
-  <li>🌱 Mestrando em Ciência da Computação pelo IME-USP</li>
+  <li><h3>🔭 Atualmente atuo como Analista DevOps no Banco do Brasil, com foco no desenvolvimento de pipelines de CI/CD utilizando GitHub Actions. Também atuo como desenvolvedor Back-End Java.</h3></li>
+  <li><h3>🌱 Mestrando em Ciência da Computação pelo IME-USP.</h3></li>
 </ul>
 
 <br>
 
 <div align="center">
-  <img align="center" alt="Java-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Docker-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Javascript-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java-icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img width="10"></img>
+  <img align="center" alt="Python-icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="10"></img>
+  <img align="center" alt="Docker-icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img width="10"></img>
+  <img align="center" alt="Javascript-icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="10"></img>
+  <img align="center" alt="C-icon" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img width="10"></img>
+  <img align="center" alt="GitHub-Actions-icon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
 </div>
 
 ##
